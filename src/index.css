@@ -198,3 +198,21 @@
 .markdown-content img {
   @apply rounded-[2rem] shadow-[0_30px_60px_rgba(0,0,0,0.8)] my-12 border border-accent-gold/20 mx-auto max-w-full h-auto transition-transform duration-700 hover:scale-[1.02];
 }
+@layer components {
+  .glass-premium {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  }
+}
+@import "tailwindcss";
+
+@utility glass-premium {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
