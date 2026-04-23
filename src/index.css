@@ -45,9 +45,7 @@
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), inset 0 0 20px rgba(197, 160, 89, 0.05);
 }
 
-.premium-card {
-  @apply glass-premium rounded-[2rem] p-8 transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_20px_60px_rgba(0,0,0,0.8),0_0_30px_rgba(197,160,89,0.1)];
-}
+
 
 .neon-border {
   position: relative;
