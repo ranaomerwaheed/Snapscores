@@ -1,0 +1,58 @@
+{
+  "entities": {
+    "users": {
+      "title": "User Profile",
+      "description": "Stores user profile information and roles.",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "displayName": { "type": "string" },
+        "role": { "type": "string", "enum": ["user", "seller", "admin"] },
+        "affiliateCode": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email"]
+    },
+    "sellerApplications": {
+      "title": "Seller Application",
+      "description": "Stores applications from users wanting to become sellers.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "email": { "type": "string" },
+        "experience": { "type": "string" },
+        "services": { "type": "string" },
+        "status": { "type": "string", "enum": ["pending", "approved", "rejected"] },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "email", "experience"]
+    },
+    "affiliates": {
+      "title": "Affiliate Data",
+      "description": "Stores affiliate codes and stats.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "code": { "type": "string" },
+        "clicks": { "type": "number" },
+        "conversions": { "type": "number" }
+      },
+      "required": ["userId", "code"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "users",
+      "description": "User profile documents."
+    },
+    "/sellerApplications/{appId}": {
+      "schema": "sellerApplications",
+      "description": "Seller application documents."
+    },
+    "/affiliates/{affiliateId}": {
+      "schema": "affiliates",
+      "description": "Affiliate tracking documents."
+    }
+  }
+}

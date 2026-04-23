@@ -1,0 +1,623 @@
+31:const WHATSAPP_NUMBER = "+923431390157";
+36:      home: "Home",
+37:      services: "Services",
+38:      catalog: "Catalog",
+39:      how: "How it Works",
+40:      faq: "FAQ",
+41:      blog: "Blog",
+42:      contact: "Contact",
+43:      shop: "Shop Now",
+44:      lang: "العربية"
+47:      badge: "Trusted by 10,000+ Clients",
+48:      title: "Boost Your Snapchat Presence Instantly",
+49:      desc: "Securely increase your Snap Score, get aged accounts, and grow your followers with the GCC's most trusted provider.",
+50:      cta: "View Catalog",
+51:      secondary: "Our Services",
+52:      scoreLabel: "Current Score",
+53:      targetLabel: "Target Boost"
+56:      title: "Premium Catalog",
+57:      subtitle: "Select the perfect package for your needs",
+58:      scoreAccounts: "Score Accounts",
+59:      followerAccounts: "Follower Accounts",
+60:      servicesTab: "Growth Services",
+61:      buy: "Order via WhatsApp",
+62:      order: "Order Now",
+63:      price: "Price"
+66:      title: "14-Day Money Back Guarantee",
+67:      desc: "We stand by our service. If you're not satisfied, we'll refund your purchase within 14 days."
+70:      summary: "Order Summary",
+71:      package: "Selected Package",
+72:      price: "Total Price",
+73:      details: "Account Details",
+74:      username: "Snapchat Username",
+75:      password: "Account Password (Required for Score)",
+76:      notice: "Your credentials are encrypted and used only for the boosting process. We recommend changing your password after completion.",
+77:      button: "Confirm Order via WhatsApp",
+78:      processing: "Processing...",
+79:      paymentTitle: "Preferred Payment Method",
+80:      productDetails: "High-quality Snapchat account with the specified features. Delivery usually takes 1-24 hours depending on the package."
+83:      score: "Score Boost",
+84:      followers: "Followers",
+85:      aged: "Aged Account",
+86:      verified: "Verified"
+89:      title: "Why Choose Snap Boost?",
+90:      subtitle: "We provide the most secure and efficient growth services in the region.",
+92:        title: "Total Security",
+93:        desc: "We use advanced encryption and safe methods that comply with platform guidelines."
+96:        title: "Fast Delivery",
+97:        desc: "Most orders are processed within hours. We value your time."
+100:        title: "24/7 Support",
+101:        desc: "Our expert team is available around the clock to assist you via WhatsApp."
+104:        title: "Premium Quality",
+105:        desc: "We only provide high-quality, stable accounts and organic-looking growth."
+109:      title: "Available Accounts",
+110:      subtitle: "Ready-to-use accounts with high scores and history",
+111:      viewAll: "View All Accounts",
+112:      score: "Score",
+113:      age: "Age",
+114:      price: "Price",
+115:      buy: "Buy Now",
+116:      order: "Order via WhatsApp",
+117:      titleHighlight: "Available"
+120:      title: "Our Premium Services",
+121:      subtitle: "Everything you need to dominate Snapchat",
+123:        title: "Score Boosting",
+124:        desc: "Increase your Snap Score by thousands or millions safely and quickly."
+127:        title: "Aged Accounts",
+128:        desc: "Get established accounts from 2011-2020 with high trust scores."
+131:        title: "Follower Growth",
+132:        desc: "Grow your public profile with real-looking, active followers."
+136:      title: "How It Works",
+137:      subtitle: "Three simple steps to boost your presence",
+139:        title: "Choose Package",
+140:        desc: "Select the account or service that fits your goals."
+143:        title: "Provide Details",
+144:        desc: "Enter your username and complete the secure checkout."
+147:        title: "Get Boosted",
+148:        desc: "Relax while our team processes your order safely."
+152:      clients: "Happy Clients",
+153:      orders: "Orders Completed",
+154:      experience: "Years Experience",
+155:      rating: "Average Rating"
+158:      title: "Frequently Asked Questions",
+159:      subtitle: "Everything you need to know about our services"
+162:      title: "Client Success Stories",
+163:      subtitle: "Hear from our satisfied customers across the GCC"
+166:      title: "Snapchat Tips & News",
+167:      subtitle: "Stay updated with the latest trends and strategies",
+168:      readMore: "Read More",
+171:          title: "How to Increase Your Snap Score Fast",
+172:          date: "March 15, 2024",
+173:          excerpt: "Discover the most effective and safe methods to boost your score in 2024."
+176:          title: "Why Aged Accounts are Better",
+177:          date: "March 10, 2024",
+178:          excerpt: "The benefits of using accounts with history for your personal brand."
+181:          title: "Snapchat Security Best Practices",
+182:          date: "March 5, 2024",
+183:          excerpt: "Keep your account safe while growing your presence online."
+188:      title: "Secure Payments",
+189:      subtitle: "We accept all major payment methods in the GCC",
+191:        { name: "Apple Pay", icon: "" },
+192:        { name: "STC Pay", icon: "stc" },
+193:        { name: "Mada", icon: "mada" },
+194:        { name: "Credit Card", icon: "💳" }
+198:      title: "Ready to Level Up?",
+199:      subtitle: "Join thousands of satisfied users and start your boost today.",
+200:      button: "Contact on WhatsApp"
+203:      rights: "© 2024 Snap Boost. All rights reserved.",
+204:      privacy: "Privacy Policy",
+205:      terms: "Terms of Service",
+206:      serving: "Serving Clients In:"
+211:      home: "الرئيسية",
+212:      services: "خدماتنا",
+213:      catalog: "الكتالوج",
+214:      how: "كيف نعمل",
+215:      faq: "الأسئلة الشائعة",
+216:      blog: "المدونة",
+217:      contact: "اتصل بنا",
+218:      shop: "تسوق الآن",
+219:      lang: "English"
+222:      badge: "موثوق من قبل +10,000 عميل",
+223:      title: "ارفع سكور السناب شات فوراً",
+224:      desc: "زد سكور حسابك بأمان، احصل على حسابات قديمة، ونمِ متابعيك مع المزود الأكثر ثقة في الخليج.",
+225:      cta: "عرض الكتالوج",
+226:      secondary: "خدماتنا",
+227:      scoreLabel: "السكور الحالي",
+228:      targetLabel: "الزيادة المستهدفة"
+231:      title: "الكتالوج المميز",
+232:      subtitle: "اختر الباقة المناسبة لاحتياجاتك",
+233:      scoreAccounts: "حسابات سكور",
+234:      followerAccounts: "حسابات متابعين",
+235:      servicesTab: "خدمات النمو",
+236:      buy: "طلب عبر واتساب",
+237:      order: "اطلب الآن",
+238:      price: "السعر"
+241:      title: "ضمان استرداد الأموال لمدة 14 يوماً",
+242:      desc: "نحن نثق في خدماتنا. إذا لم تكن راضياً، سنعيد لك أموالك خلال 14 يوماً."
+245:      summary: "ملخص الطلب",
+246:      package: "الباقة المختارة",
+247:      price: "السعر الإجمالي",
+248:      details: "تفاصيل الحساب",
+249:      username: "اسم المستخدم (اليوزر)",
+250:      password: "كلمة المرور (مطلوبة للسكور)",
+251:      notice: "بياناتك مشفرة وتستخدم فقط لعملية الرفع. ننصح بتغيير كلمة المرور بعد الانتهاء.",
+252:      button: "تأكيد الطلب عبر واتساب",
+253:      processing: "جاري المعالجة...",
+254:      paymentTitle: "طريقة الدفع المفضلة",
+255:      productDetails: "حساب سناب شات عالي الجودة بالمواصفات المذكورة. التسليم يستغرق عادة 1-24 ساعة."
+258:      score: "رفع سكور",
+259:      followers: "متابعين",
+260:      aged: "حساب قديم",
+261:      verified: "موثق"
+264:      title: "لماذا تختار سناب بوست؟",
+265:      subtitle: "نقدم خدمات النمو الأكثر أماناً وفعالية في المنطقة.",
+267:        title: "أمان تام",
+268:        desc: "نستخدم تشفيراً متقدماً وطرقاً آمنة تتوافق مع إرشادات المنصة."
+271:        title: "سرعة التنفيذ",
+272:        desc: "يتم معالجة معظم الطلبات خلال ساعات. نحن نقدر وقتك."
+275:        title: "دعم 24/7",
+276:        desc: "فريقنا الخبير متاح على مدار الساعة لمساعدتك عبر الواتساب."
+279:        title: "جودة ممتازة",
+280:        desc: "نقدم فقط حسابات مستقرة وعالية الجودة ونمواً يبدو طبيعياً."
+284:      title: "الحسابات المتاحة",
+285:      subtitle: "حسابات جاهزة للاستخدام مع سكور عالٍ وتاريخ قديم",
+286:      viewAll: "عرض كل الحسابات",
+287:      score: "السكور",
+288:      age: "العمر",
+289:      price: "السعر",
+290:      buy: "شراء الآن",
+291:      order: "اطلب عبر واتساب",
+292:      titleHighlight:       title: "الأسئلة الشائعة",
+293:      subtitle: "كل ما تحتاج معرفته عن خدماتنا"
+300:    name: "Ahmed Al-Harbi",
+301:    location: "Riyadh, KSA",
+302:    text: "Best service in the Middle East. My Snap score reached 1M in just 2 days. Highly recommended for anyone looking for reliability.",
+303:    avatar: "https://i.pravatar.cc/150?u=ahmed"
+306:    name: "Sara Mohammed",
+307:    location: "Dubai, UAE",
+308:    text: "I bought an aged account from 2012. It's perfectly stable and the support team helped me with everything. Very professional.",
+309:    avatar: "https://i.pravatar.cc/150?u=sara"
+312:    name: "Khalid Qatar",
+313:    location: "Doha, Qatar",
+314:    text: "Fast delivery and excellent communication. The followers look real and my profile engagement has improved significantly.",
+315:    avatar: "https://i.pravatar.cc/150?u=khalid"
+320:  { name: "Saudi Arabia", emoji: "🇸🇦" },
+321:  { name: "UAE", emoji: "🇦🇪" },
+322:  { name: "Qatar", emoji: "🇶🇦" },
+323:  { name: "Kuwait", emoji: "🇰🇼" },
+324:  { name: "Oman", emoji: "🇴🇲" },
+325:  { name: "Bahrain", emoji: "🇧🇭" }
+330:    q: { en: "Is it safe for my account?", ar: "هل الخدمة آمنة لحسابي؟" },
+331:    a: { en: "Yes, we use secure methods that comply with Snapchat's guidelines. We have served over 10,000 clients without issues.", ar: "نعم، نستخدم طرقاً آمنة تتوافق مع إرشادات سناب شات. خدمنا أكثر من 10,000 عميل بدون أي مشاكل." }
+334:    q: { en: "How long does it take?", ar: "كم من الوقت يستغرق التنفيذ؟" },
+335:    a: { en: "Most orders are completed within 1-24 hours. Larger score boosts might take up to 48 hours for maximum safety.", ar: "معظم الطلبات تكتمل خلال 1-24 ساعة. رفع السكور الكبير قد يستغرق حتى 48 ساعة لأقصى درجات الأمان." }
+338:    q: { en: "Do I need to provide my password?", ar: "هل أحتاج لتزويدكم بكلمة المرور؟" },
+339:    a: { en: "For score boosting, we need temporary access. For followers or buying new accounts, no password is required.", ar: "لرفع السكور، نحتاج وصولاً مؤقتاً. لزيادة المتابعين أو شراء حسابات جديدة، لا يلزم وجود كلمة مرور." }
+346:    score: "500K+", 
+347:    price: "150 SAR", 
+348:    age: "2015", 
+349:    type: "Aged",
+350:    description: { en: "High Trust Account", ar: "حساب موثوقية عالية" }
+354:    score: "1M+", 
+355:    price: "250 SAR", 
+356:    age: "2014", 
+357:    type: "Premium",
+358:    description: { en: "Verified Potential", ar: "إمكانية توثيق" }
+362:    score: "2M+", 
+363:    price: "450 SAR", 
+364:    age: "2012", 
+365:    type: "Elite",
+366:    description: { en: "Rare Vintage Account", ar: "حساب قديم نادر" }
+371:  <svg viewBox="0 0 448 512" className={className}>
+372:    <path fill="#25D366" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-5.5-2.8-23.2-8.5-44.2-27.1-16.4-14.6-27.4-32.7-30.6-38.2-3.2-5.6-.3-8.6 2.5-11.3 2.5-2.5 5.6-6.5 8.3-9.8 2.8-3.3 3.7-5.6 5.6-9.3 1.9-3.7 1-6.9-.5-9.8-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 13.2 5.8 23.5 9.2 31.5 11.8 13.3 4.2 25.4 3.6 35 2.2 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/>
+376:      title: "ماذا يقول عملاؤنا في الخليج؟"
+379:      title: "آخر الأخبار والنصائح",
+380:      subtitle: "ابقَ على اطلاع بأحدث اتجاهات سناب شات في الخليج",
+381:      readMore: "اقرأ المزيد",
+383:        { title: "كيف ترفع سكور سناب شات بأمان في 2026", date: "15 مارس 2026", excerpt: "اكتشف أحدث الطرق اليدوية لزيادة السكور دون المخاطرة بحسابك. نركز على أنماط النمو العضوي التي تحافظ على صحة حسابك." },
+384:        { title: "أهمية حسابات سناب شات القديمة لل�    text: {
+385:      en: "I was worried about my account, but they reassured me and the service was extremely professional. Highly recommended.",
+386:      ar: "كنت خايفة على حسابي بس طمنوني والخدمة كانت احترافية للغاية. أنصح فيهم وبقوة."
+388:    avatar: "https://picsum.photos/seed/user2/100/100"
+391:    name: { en: "Sultan Al-Kuwari", ar: "سلطان الكواري" },
+392:    location: { en: "Doha, Qatar", ar: "الدوحة، قطر" },
+394:      en: "Best service I've dealt with in the Gulf. Credibility and speed in execution.",
+395:      ar: "أفضل خدمة تعاملت معها في الخليج. مصداقية وسرعة في التنفيذ."
+397:    avatar: "https://picsum.photos/seed/user3/100/100"
+402:  <svg viewBox="0 0 448 512" className={className}>
+403:    <path fill="#25D366" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-5.5-2.8-23.2-8.5-44.2-27.1-16.4-14.6-27.4-32.7-30.6-38.2-3.2-5.6-.3-8.6 2.5-11.3 2.5-2.5 5.6-6.5 8.3-9.8 2.8-3.3 3.7-5.6 5.6-9.3 1.9-3.7 1-6.9-.5-9.8-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 13.2 5.8 23.5 9.2 31.5 11.8 13.3 4.2 25.4 3.6 35 2.2 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/>
+508:      <div className="fixed inset-0 z-0 pointer-events-none opacity-30">
+509:        <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(at_0%_0%,hsla(59,100%,50%,0.1)_0,transparent_50%)]"></div>
+510:        <div className="absolute bottom-0 right-0 w-full h-full bg-[radial-gradient(at_100%_100%,hsla(59,100%,50%,0.1)_0,transparent_50%)]"></div>
+511:        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full bg-[radial-gradient(circle_at_center,rgba(255,252,0,0.05)_0%,transparent_70%)]"></div>
+515:      <header className="fixed top-0 left-0 right-0 z-50 bg-matte-black/80 backdrop-blur-xl border-b border-white/10">
+516:        <nav className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+517:          <div className="flex items-center gap-3">
+518:            <div className="relative group cursor-pointer">
+519:              <Star className="w-10 h-10 text-snap-yellow fill-snap-yellow group-hover:rotate-12 transition-transform duration-300" />
+520:              <div className="absolute inset-0 bg-snap-yellow blur-xl opacity-20 group-hover:opacity-40 transition-opacity"></div>
+522:            <div className="flex flex-col leading-none">
+523:              <span className="text-2xl font-black tracking-tighter text-white uppercase">SNAP BOOST</span>
+524:              <span className="text-[10px] font-bold text-snap-yellow tracking-[0.3em] uppercase">{lang === 'ar' ? 'سناب بوست' : 'Professional Services'}</span>
+528:          <div className="hidden md:flex items-center gap-8 text-sm font-bold text-gray-400">
+532:            <a href="#services" className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'خدماتنا' : 'Services'}</a>
+533:            <a href="#catalog" className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'الحسابات' : 'Catalog'}</a>
+536:          <div className="flex items-center gap-4">
+539:              className="flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-bold text-gray-300 hover:bg-white/10 hover:border-snap-yellow/50 transition-all"
+541:              <Globe className="w-4 h-4" />
+546:              className="hidden sm:flex px-6 py-2.5 bg-snap-yellow text-black font-black rounded-full hover:scale-105 transition-all duration-300 text-sm shadow-[0_0_20px_rgba(255,252,0,0.3)]"
+552:              className="md:hidden p-2 text-white hover:text-snap-yellow transition-colors"
+554:              <div className="w-6 h-5 flex flex-col justify-between">
+570:              className="md:hidden bg-matte-black border-t border-white/10 overflow-hidden"
+572:              <div className="flex flex-col p-6 gap-6 text-lg font-bold text-gray-400">
+573:                <button onClick={() => { setView('home'); setIsMenuOpen(false); }} className="text-right hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'الرئيسية' : 'Home'}</button>
+574:                <button onClick={() => { setView('shop'); setIsMenuOpen(false); }} className="text-right hover:text-snap-yellow transition-colors">{t.nav.shop}</button>
+575:                <button onClick={() => { setView('blog'); setIsMenuOpen(false); }} className="text-right hover:text-snap-yellow transition-colors">{t.nav.blog}</button>
+576:                <a href="#services" onClick={() => setIsMenuOpen(false)} className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'خدماتنا' : 'Services'}</a>
+577:                <a href="#catalog" onClick={() => setIsMenuOpen(false)} className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'الحسابات' : 'Catalog'}</a>
+583:                  className="w-full py-4 bg-snap-yellow text-black font-black rounded-xl text-center"
+597:        <section className="relative pt-40 pb-24 px-6 overflow-hidden">
+598:          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full bg-[radial-gradient(circle_at_center,rgba(255,252,0,0.05)_0%,transparent_70%)] pointer-events-none"></div>
+599:          <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
+605:              className="z-10"
+607:              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-snap-yellow/10 border border-snap-yellow/20 text-snap-yellow text-xs font-bold mb-8">
+608:                <BadgeCheck className="w-4 h-4" />
+611:              <h1 className="text-6xl lg:text-8xl font-black leading-[0.9] mb-8 tracking-tighter">
+613:                <span className="text-snap-yellow drop-shadow-[0_0_30px_rgba(255,252,0,0.3)]">{t.hero.titleHighlight}</span> <br />
+614:                <span className="text-3xl lg:text-5xl block mt-4 text-white/90">{t.hero.subtitle}</span>
+616:              <p className="text-xl text-gray-400 mb-10 max-w-lg leading-relaxed font-medium">
+619:              <div className="flex flex-wrap gap-6">
+622:                  className="px-10 py-5 bg-snap-yellow text-black font-black rounded-2xl hover:scale-105 transition-all duration-300 shadow-[0_10px_40px_rgba(255,252,0,0.3)] flex items-center gap-3"
+624:                  <ShoppingBag className="w-6 h-6" />
+627:                <div className="flex flex-col justify-center">
+628:                  <div className="flex items-center gap-2 text-white font-bold mb-1">
+629:                    <ShieldCheck className="w-5 h-5 text-snap-yellow" />
+632:                  <div className="flex items-center gap-1">
+633:                    {[...Array(5)].map((_, i) => <Star key={i} className="w-3 h-3 text-snap-yellow fill-snap-yellow" />)}
+634:                    <span className="text-[10px] text-gray-500 ml-2">5,000+ Happy Clients</span>
+647:              <div className="relative w-64 h-[500px] bg-zinc-900 rounded-[3rem] border-8 border-zinc-800 shadow-2xl overflow-hidden">
+649:                <div className="absolute inset-0 bg-gradient-to-b from-snap-yellow/20 to-black p-6 flex flex-col items-center justify-center text-center">
+650:                  <div className="w-20 h-20 bg-snap-yellow rounded-2xl mb-6 flex items-center justify-center shadow-lg">
+651:                    <Zap className="w-10 h-10 text-black fill-black" />
+653:                  <div className="text-gray-400 text-xs uppercase tracking-widest mb-1">Snap Score</div>
+654:                  <div className="text-4xl font-black text-snap-yellow tabular-nums">
+657:                  <div className="mt-8 w-full space-y-3">
+658:                    <div className="h-2 bg-white/10 rounded-full overflow-hidden">
+660:                        animate={{ width: ["0%", "100%"] }}
+661:                        transition={{ duration: 2, repeat: 1000000, repeatType: "loop" }}
+662:                        className="h-full bg-snap-yellow"
+665:                    <div className="text-[10px] text-gray-500">Boosting in progress...</div>
+671:              <div className="absolute -z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[150%] h-[150%]">
+684:                      repeatType: "loop",
+687:                    className="absolute w-2 h-2 bg-gold-accent rounded-full blur-[1px]"
+700:        <section className="py-12 px-6">
+701:          <div className="max-w-7xl mx-auto">
+702:            <div className="glass p-8 rounded-3xl border-snap-yellow/30 flex flex-col md:flex-row items-center gap-8 text-center md:text-right">
+703:              <div className="w-20 h-20 bg-snap-yellow/10 rounded-full flex items-center justify-center text-snap-yellow flex-shrink-0">
+704:                <RefreshCcw className="w-10 h-10" />
+707:                <h2 className="text-2xl font-black mb-2 text-snap-yellow">{t.guarantee.title}</h2>
+708:                <p className="text-gray-400 font-medium">{t.guarantee.desc}</p>
+715:        <section className="py-12 bg-white/5 border-y border-white/5 overflow-hidden">
+716:          <div className="max-w-7xl mx-auto px-6">
+717:            <div className="flex flex-wrap justify-center items-center gap-12 opacity-30 grayscale hover:grayscale-0 hover:opacity-100 transition-all duration-500">
+718:              <div className="text-2xl font-black tracking-tighter">FORBES</div>
+719:              <div className="text-2xl font-black tracking-tighter italic">VOGUE</div>
+720:              <div className="text-2xl font-black tracking-tighter">GQ</div>
+721:              <div className="text-2xl font-black tracking-tighter">WIRED</div>
+722:              <div className="text-2xl font-black tracking-tighter italic">Esquire</div>
+728:        <section className="py-20 px-6 bg-matte-black border-y border-white/5">
+729:          <div className="max-w-7xl mx-auto">
+730:            <div className="grid grid-cols-2 lg:grid-cols-4 gap-12">
+737:                  className="text-center"
+739:                  <div className="text-5xl lg:text-7xl font-black text-snap-yellow mb-2 tracking-tighter">{stat.value}</div>
+740:                  <div className="text-sm font-bold text-gray-500 uppercase tracking-widest">{stat.label}</div>
+748:        <section id="services" className="py-32 px-6 bg-gradient-to-b from-matte-black to-zinc-900/30">
+749:          <div className="max-w-7xl mx-auto">
+750:            <div className="text-center mb-20">
+751:              <h2 className="text-4xl lg:text-6xl font-black mb-6 uppercase tracking-tight">{t.why.title}</h2>
+752:              <div className="w-32 h-1.5 bg-snap-yellow mx-auto rounded-full shadow-[0_0_15px_rgba(255,252,0,0.5)]"></div>
+755:            <div className="grid md:grid-cols-3 gap-10">
+762:                  className="glass p-10 rounded-[2.5rem] group hover:border-snap-yellow/50 transition-all duration-500 relative overflow-hidden"
+764:                  <div className="absolute -top-10 -right-10 w-32 h-32 bg-snap-yellow/5 rounded-full blur-3xl group-hover:bg-snap-yellow/10 transition-colors"></div>
+765:                  <div className="w-20 h-20 bg-snap-yellow/10 rounded-3xl flex items-center justify-center mb-8 text-snap-yellow group-hover:scale-110 transition-transform duration-500 shadow-[inset_0_0_20px_rgba(255,252,0,0.1)]">
+766:                    {i === 0 ? <Lock className="w-10 h-10" /> : i === 1 ? <ShieldCheck className="w-10 h-10" /> : <Infinity className="w-10 h-10" />}
+768:                  <h3 className="text-3xl font-black mb-4">{item.title}</h3>
+769:                  <p className="text-gray-400 leading-relaxed text-lg">{item.desc}</p>
+777:        <section id="catalog" className="py-32 px-6 bg-matte-black relative overflow-hidden">
+778:          <div className="max-w-7xl mx-auto relative z-10">
+779:            <div className="text-center mb-20">
+780:              <h2 className="text-5xl lg:text-7xl font-black mb-6 uppercase tracking-tighter">
+781:                {t.catalog.title} <span className="text-snap-yellow">{t.catalog.titleHighlight}</span>
+783:              <p className="text-gray-400 text-xl font-medium">{t.catalog.subtitle}</p>
+786:            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+793:                  className="glass p-10 rounded-[3rem] border border-white/5 hover:border-snap-yellow/30 transition-all group relative overflow-hidden"
+795:                  <div className="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
+796:                    <Star className="w-20 h-20 text-snap-yellow" />
+798:                  <div className="text-xs font-black text-snap-yellow mb-4 tracking-[0.3em] uppercase">{item.description[lang]}</div>
+799:                  <div className="text-6xl font-black mb-6 group-hover:text-snap-yellow transition-colors tracking-tighter">{item.score}</div>
+800:                  <div className="text-3xl font-bold text-white/90 mb-10">{item.price}</div>
+803:                    className="w-full py-4 bg-white/5 border border-white/10 rounded-2xl font-black hover:bg-snap-yellow hover:text-black transition-all flex items-center justify-center gap-3 text-lg"
+805:                    <WhatsAppIcon className="w-6 h-6" />
+815:        <section id="how" className="py-32 px-6 bg-zinc-900/20">
+816:          <div className="max-w-7xl mx-auto">
+817:            <div className="text-center mb-20">
+818:              <h2 className="text-4xl lg:text-6xl font-black mb-6 uppercase tracking-tight">{t.how.title}</h2>
+819:              <div className="w-32 h-1.5 bg-snap-yellow mx-auto rounded-full"></div>
+822:            <div className="grid md:grid-cols-3 gap-12">
+824:                <div key={i} className="relative text-center group">
+825:                  <div className="w-24 h-24 bg-matte-black border-2 border-snap-yellow rounded-[2rem] flex items-center justify-center mx-auto mb-8 text-3xl font-black text-snap-yellow shadow-[0_0_30px_rgba(255,252,0,0.1)] group-hover:scale-110 transition-transform duration-500 relative">
+826:                    <div className="absolute -top-3 -right-3 w-8 h-8 bg-snap-yellow text-black rounded-full text-sm flex items-center justify-center border-4 border-matte-black">
+831:                  <h3 className="text-2xl font-black mb-4">{step.title}</h3>
+832:                  <p className="text-gray-400 leading-relaxed font-medium">{step.desc}</p>
+843:        <section className="py-32 px-6 bg-matte-black relative">
+844:          <div className="max-w-7xl mx-auto">
+845:            <div className="grid lg:grid-cols-2 gap-20 items-center">
+847:                <h2 className="text-5xl lg:text-7xl font-black mb-10 leading-[0.9] tracking-tighter">
+849:                  <span className="text-snap-yellow">{t.services.titleHighlight}</span> <br />
+850:                  <span className="text-2xl lg:text-4xl block mt-4 text-white/80">{t.services.subtitle}</span>
+852:                <div className="space-y-8">
+861:                      className="flex gap-8 p-8 rounded-[2rem] bg-white/5 border border-white/5 hover:border-snap-yellow/30 transition-all cursor-pointer group/service"
+863:                      <div className="flex-shrink-0 p-4 bg-snap-yellow/10 rounded-2xl h-fit group-hover/service:bg-snap-yellow group-hover/service:text-black transition-colors">{service.icon}</div>
+865:                        <h4 className="text-2xl font-black mb-3 group-hover/service:text-snap-yellow transition-colors">{service.title}</h4>
+866:                        <p className="text-gray-400 text-lg leading-relaxed">{service.desc}</p>
+873:              <div className="relative">
+874:                <div className="aspect-[4/5] rounded-[3rem] overflow-hidden border-2 border-white/10 shadow-2xl">
+876:                    src="https://picsum.photos/seed/snapchat-luxury/1000/1250" 
+877:                    alt="Premium Snapchat Services" 
+878:                    className="w-full h-full object-cover opacity-80 hover:scale-110 transition-transform duration-1000"
+879:                    referrerPolicy="no-referrer"
+881:                  <div className="absolute inset-0 bg-gradient-to-t from-matte-black via-transparent to-transparent"></div>
+887:                  className="absolute -bottom-10 -right-10 w-56 h-56 glass rounded-[2.5rem] p-8 flex flex-col justify-center border-snap-yellow/40 backdrop-blur-2xl"
+889:                  <Star className="w-12 h-12 text-snap-yellow fill-snap-yellow mb-4" />
+890:                  <div className="text-white font-black text-4xl mb-1 tracking-tighter">100%</div>
+891:                  <div className="text-[10px] uppercase tracking-[0.2em] text-snap-yellow font-bold">Safe & Verified</div>
+899:        <section id="faq" className="py-32 px-6 bg-matte-black">
+900:          <div className="max-w-3xl mx-auto">
+901:            <div className="text-center mb-20">
+902:              <h2 className="text-4xl lg:text-6xl font-black mb-6 uppercase tracking-tight">{t.faq.title}</h2>
+903:              <div className="w-32 h-1.5 bg-snap-yellow mx-auto rounded-full"></div>
+906:            <div className="space-y-4">
+908:                <div key={i} className="border border-white/10 rounded-2xl overflow-hidden">
+911:                    className="w-full p-6 flex items-center justify-between text-right bg-white/5 hover:bg-white/10 transition-colors"
+922:                        className="overflow-hidden"
+937:        <section id="blog" className="py-32 px-6 bg-matte-black">
+938:          <div className="max-w-7xl mx-auto">
+939:            <div className="text-center mb-20">
+940:              <h2 className="text-4xl lg:text-6xl font-black mb-6 uppercase tracking-tight">{t.blog.title}</h2>
+941:              <p className="text-xl text-gray-400 font-medium">{t.blog.subtitle}</p>
+942:              <div className="w-32 h-1.5 bg-snap-yellow mx-auto rounded-full mt-8"></div>
+945:            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+952:                  className="glass rounded-[2.5rem] overflow-hidden border border-white/5 hover:border-snap-yellow/30 transition-all group"
+954:                  <div className="aspect-video overflow-hidden">
+958:                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+959:                      referrerPolicy="no-referrer"
+962:                  <div className="p-8">
+963:                    <div className="text-xs font-bold text-snap-yellow uppercase tracking-widest mb-4">{post.date}</div>
+964:                    <h3 className="text-2xl font-black mb-4 leading-tight group-hover:text-snap-yellow transition-colors">{post.title}</h3>
+965:                    <p className="text-gray-400 mb-8 leading-relaxed">{post.excerpt}</p>
+968:                      className="text-sm font-black uppercase tracking-widest flex items-center gap-2 group/btn"
+981:        <section className="py-24 px-6 overflow-hidden">
+982:          <div className="max-w-4xl mx-auto">
+983:            <div className="text-center mb-12">
+984:              <h2 className="text-3xl font-black mb-4 uppercase tracking-tight">{t.testimonials.title}</h2>
+987:            <div className="relative">
+988:              <AnimatePresence mode="wait">
+994:                  className="glass p-10 rounded-[3rem] text-center"
+999:                    className="w-20 h-20 rounded-full mx-auto mb-6 border-2 border-snap-yellow p-1"
+1000:                    referrerPolicy="no-referrer"
+1002:                  <p className="text-2xl font-medium italic mb-8 leading-relaxed">
+1003:                    "{testimonials[currentTestimonial].text[lang]}"
+1005:                  <div className="font-bold text-snap-yellow">{testimonials[currentTestimonial].name[lang]}</div>
+1006:                  <div className="text-sm text-gray-500">{testimonials[currentTestimonial].location[lang]}</div>
+1010:              <div className="flex justify-center gap-4 mt-8">
+1013:                  className="w-12 h-12 rounded-full border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors"
+1015:                  {lang === 'ar' ? <ChevronRight className="w-6 h-6" /> : <ChevronLeft className="w-6 h-6" />}
+1019:                  className="w-12 h-12 rounded-full border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors"
+1021:                  {lang === 'ar' ? <ChevronLeft className="w-6 h-6" /> : <ChevronRight className="w-6 h-6" />}
+1029:        <section id="contact" className="py-32 px-6 bg-gradient-to-b from-zinc-900/30 to-matte-black">
+1030:          <div className="max-w-7xl mx-auto">
+1031:            <div className="grid lg:grid-cols-2 gap-20 items-center">
+1033:                <h2 className="text-4xl lg:text-6xl font-black mb-8 uppercase tracking-tight">
+1035:                  <span className="text-snap-yellow">{lang === 'ar' ? 'فريق الخبراء' : 'Our Experts'}</span>
+1037:                <p className="text-xl text-gray-400 mb-10 leading-relaxed">
+1042:                <div className="space-y-6">
+1043:                  <div className="flex items-center gap-6 p-6 rounded-2xl bg-white/5 border border-white/10">
+1044:                    <div className="w-14 h-14 rounded-full bg-snap-yellow/10 flex items-center justify-center text-snap-yellow">
+1045:                      <WhatsAppIcon className="w-8 h-8" />
+1048:                      <div className="text-sm font-bold text-gray-500 uppercase tracking-widest">WhatsApp Support</div>
+1049:                      <div className="text-2xl font-black text-white">{WHATSAPP_NUMBER}</div>
+1052:                  <div className="flex items-center gap-6 p-6 rounded-2xl bg-white/5 border border-white/10">
+1053:                    <div className="w-14 h-14 rounded-full bg-snap-yellow/10 flex items-center justify-center text-snap-yellow">
+1054:                      <Globe className="w-8 h-8" />
+1057:                      <div className="text-sm font-bold text-gray-500 uppercase tracking-widest">Service Area</div>
+1058:                      <div className="text-2xl font-black text-white">GCC & Middle East</div>
+1064:              <div className="glass p-10 rounded-[3rem] border-white/10">
+1065:                <div className="space-y-6">
+1067:                    <label className="block text-sm font-bold text-gray-500 uppercase tracking-widest mb-2">{lang === 'ar' ? 'الاسم' : 'Name'}</label>
+1068:                    <input type="text" className="w-full bg-white/5 border border-white/10 rounded-xl px-6 py-4 focus:border-snap-yellow outline-none transition-colors" placeholder={lang === 'ar' ? 'أدخل اسمك' : 'Your name'} />
+1071:                    <label className="block text-sm font-bold text-gray-500 uppercase tracking-widest mb-2">{lang === 'ar' ? 'الخدمة المطلوبة' : 'Service Needed'}</label>
+1072:                    <select className="w-full bg-white/5 border border-white/10 rounded-xl px-6 py-4 focus:border-snap-yellow outline-none transition-colors appearance-none">
+1073:                      <option className="bg-matte-black">{lang === 'ar' ? 'زيادة السكور' : 'Score Boosting'}</option>
+1074:                      <option className="bg-matte-black">{lang === 'ar' ? 'شراء حساب' : 'Buy Account'}</option>
+1075:                      <option className="bg-matte-black">{lang === 'ar' ? 'توثيق الحساب' : 'Verification'}</option>
+1079:                    <label className="block text-sm font-bold text-gray-500 uppercase tracking-widest mb-2">{lang === 'ar' ? 'الرسالة' : 'Message'}</label>
+1080:                    <textarea className="w-full bg-white/5 border border-white/10 rounded-xl px-6 py-4 focus:border-snap-yellow outline-none transition-colors h-32" placeholder={lang === 'ar' ? 'كيف يمكننا مساعدتك؟' : 'How can we help?'}></textarea>
+1084:                    className="w-full py-5 bg-snap-yellow text-black font-black rounded-xl hover:scale-105 transition-transform shadow-lg"
+1095:        <section className="py-24 px-6 bg-matte-black border-t border-white/5">
+1096:          <div className="max-w-7xl mx-auto">
+1097:            <div className="text-center mb-16">
+1098:              <h2 className="text-3xl lg:text-5xl font-black mb-4 uppercase tracking-tight">{t.payments.title}</h2>
+1099:              <p className="text-gray-400 font-bold">{t.payments.subtitle}</p>
+1102:            <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+1109:                  className="glass p-8 rounded-3xl text-center border border-white/5 hover:border-snap-yellow/30 transition-all group"
+1111:                  <div className="w-16 h-16 bg-snap-yellow/10 rounded-2xl flex items-center justify-center mx-auto mb-6 text-snap-yellow group-hover:scale-110 transition-transform">
+1114:                  <h4 className="text-xl font-black mb-2">{method.name}</h4>
+1115:                  <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">{method.desc}</p>
+1121:            <div className="mt-16 flex flex-wrap justify-center items-center gap-12 opacity-30 grayscale hover:grayscale-0 hover:opacity-100 transition-all duration-500">
+1122:              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" className="h-8" referrerPolicy="no-referrer" />
+1123:              <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="Mastercard" className="h-12" referrerPolicy="no-referrer" />
+1124:              <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin" className="h-10" referrerPolicy="no-referrer" />
+1125:              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" className="h-8" referrerPolicy="no-referrer" />
+1126:              <div className="text-2xl font-black text-white tracking-tighter">Payoneer</div>
+1127:              <div className="text-2xl font-black text-white tracking-tighter">PAYEER</div>
+1133:        <section className="px-6 pb-20">
+1134:          <div className="max-w-7xl mx-auto">
+1135:            <div className="bg-snap-yellow rounded-[3rem] p-12 lg:p-20 text-center relative overflow-hidden">
+1136:              <div className="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none">
+1137:                <div className="absolute top-0 left-0 w-64 h-64 bg-black rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2"></div>
+1138:                <div className="absolute bottom-0 right-0 w-64 h-64 bg-black rounded-full blur-3xl translate-x-1/2 translate-y-1/2"></div>
+1141:              <h2 className="text-4xl lg:text-6xl font-black text-black mb-8">{t.cta.title}</h2>
+1142:              <p className="text-black/70 text-xl mb-12 max-w-2xl mx-auto font-bold">
+1148:                className="bg-black text-white px-10 py-5 rounded-2xl font-black text-xl flex items-center gap-4 mx-auto hover:scale-105 transition-transform animate-whatsapp"
+1150:                <WhatsAppIcon className="w-8 h-8" />
+1160:          <section className="pt-40 pb-24 px-6 relative z-10">
+1161:            <div className="max-w-7xl mx-auto">
+1162:              <div className="text-center mb-16">
+1163:                <h1 className="text-5xl lg:text-7xl font-black mb-6 uppercase tracking-tighter">
+1166:                <p className="text-xl text-gray-400 font-medium">{t.shop.subtitle}</p>
+1169:              <div className="space-y-32">
+1172:                  <div className="flex items-center gap-4 mb-12">
+1173:                    <div className="w-12 h-12 bg-snap-yellow rounded-xl flex items-center justify-center text-black">
+1174:                      <Star className="w-6 h-6 fill-black" />
+1176:                    <h2 className="text-4xl font-black uppercase tracking-tight">{t.shop.scoreAccounts}</h2>
+1178:                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+1186:                        className="glass p-10 rounded-[3rem] border border-white/5 hover:border-snap-yellow/30 transition-all group relative overflow-hidden"
+1188:                        <div className="text-xs font-black text-snap-yellow mb-4 tracking-[0.3em] uppercase">{pkg.desc[lang]}</div>
+1189:                        <div className="text-6xl font-black mb-6 group-hover:text-snap-yellow transition-colors tracking-tighter">{pkg.amount}</div>
+1190:                        <div className="text-3xl font-bold text-white/90 mb-10">{pkg.price}</div>
+1193:                          className="w-full py-5 bg-snap-yellow text-black font-black rounded-2xl hover:scale-105 transition-all flex items-center justify-center gap-3 text-xl shadow-lg"
+1204:                  <div className="flex items-center gap-4 mb-12">
+1205:                    <div className="w-12 h-12 bg-snap-yellow rounded-xl flex items-center justify-center text-black">
+1206:                      <Users className="w-6 h-6" />
+1208:                    <h2 className="text-4xl font-black uppercase tracking-tight">{t.shop.followerAccounts}</h2>
+1210:                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+1218:                        className="glass p-10 rounded-[3rem] border border-white/5 hover:border-snap-yellow/30 transition-all group relative overflow-hidden"
+1220:                        <div className="text-xs font-black text-snap-yellow mb-4 tracking-[0.3em] uppercase">{pkg.desc[lang]}</div>
+1221:                        <div className="text-6xl font-black mb-6 group-hover:text-snap-yellow transition-colors tracking-tighter">{pkg.amount}</div>
+1222:                        <div className="text-3xl font-bold text-white/90 mb-10">{pkg.price}</div>
+1225:                          className="w-full py-5 bg-snap-yellow text-black font-black rounded-2xl hover:scale-105 transition-all flex items-center justify-center gap-3 text-xl shadow-lg"
+1236:                  <div className="flex items-center gap-4 mb-12">
+1237:                    <div className="w-12 h-12 bg-snap-yellow rounded-xl flex items-center justify-center text-black">
+1238:                      <Zap className="w-6 h-6 fill-black" />
+1240:                    <h2 className="text-4xl font-black uppercase tracking-tight">{t.shop.servicesTab}</h2>
+1242:                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+1250:                        className="glass p-10 rounded-[3rem] border border-white/5 hover:border-snap-yellow/30 transition-all group"
+1252:                        <div className="w-16 h-16 bg-snap-yellow/10 rounded-2xl flex items-center justify-center mb-8 text-snap-yellow group-hover:scale-110 transition-transform">
+1253:                          {React.cloneElement(service.icon as React.ReactElement, { className: "w-8 h-8" })}
+1255:                        <h3 className="text-3xl font-black mb-4 group-hover:text-snap-yellow transition-colors">{service.title}</h3>
+1256:                        <p className="text-gray-400 mb-8 leading-relaxed">{service.desc[lang]}</p>
+1257:                        <div className="text-2xl font-bold text-white mb-10">{service.price}</div>
+1260:                          className="w-full py-5 bg-white/5 border border-white/10 rounded-2xl font-black hover:bg-snap-yellow hover:text-black transition-all flex items-center justify-center gap-3 text-lg"
+1262:                          <WhatsAppIcon className="w-6 h-6" />
+1275:          <section className="pt-40 pb-24 px-6">
+1276:            <div className="max-w-3xl mx-auto">
+1277:              <div className="glass p-10 lg:p-16 rounded-[3rem] border-white/10">
+1278:                <div className="flex items-center justify-between mb-12">
+1279:                  <h1 className="text-4xl font-black uppercase tracking-tight">{t.checkout.summary}</h1>
+1280:                  <button onClick={() => setView('shop')} className="text-gray-500 hover:text-white transition-colors">
+1285:                <div className="bg-white/5 rounded-2xl p-8 mb-8 border border-white/10">
+1286:                  <div className="flex justify-between items-center mb-4">
+1287:                    <span className="text-gray-400 font-bold uppercase tracking-widest text-xs">{t.checkout.package}</span>
+1288:                    <span className="text-2xl font-black text-snap-yellow">{selectedPackage.amount || selectedPackage.title} {selectedPackage.type || ''}</span>
+1290:                  <div className="flex justify-between items-center mb-6">
+1291:                    <span className="text-gray-400 font-bold uppercase tracking-widest text-xs">{t.checkout.price}</span>
+1292:                    <span className="text-2xl font-black text-white">{selectedPackage.price}</span>
+1294:                  <div className="pt-6 border-t border-white/5">
+1295:                    <h3 className="text-xs font-bold text-gray-500 uppercase tracking-widest mb-3">{lang === 'ar' ? 'تفاصيل المنتج' : 'Product Details'}</h3>
+1296:                    <p className="text-sm text-gray-400 leading-relaxed">
+1302:                <div className="space-y-8">
+1303:                  <h2 className="text-2xl font-black uppercase tracking-tight">{t.checkout.details}</h2>
+1305:                    <label className="block text-sm font-bold text-gray-500 uppercase tracking-widest mb-3">{t.checkout.username}</label>
+1307:                      type="text" 
+1310:                      className="w-full bg-white/5 border border-white/10 rounded-xl px-6 py-4 focus:border-snap-yellow outline-none transition-colors text-lg" 
+1311:                      placeholder="@username" 
+1315:                    <label className="block text-sm font-bold text-gray-500 uppercase tracking-widest mb-3">{t.checkout.password}</label>
+1317:                      type="password" 
+1320:                      className="w-full bg-white/5 border border-white/10 rounded-xl px-6 py-4 focus:border-snap-yellow outline-none transition-colors text-lg" 
+1321:                      placeholder="••••••••" 
+1325:                  <div className="p-6 rounded-2xl bg-snap-yellow/5 border border-snap-yellow/20 flex gap-4 items-start">
+1326:                    <Lock className="w-6 h-6 text-snap-yellow flex-shrink-0 mt-1" />
+1327:                    <p className="text-sm text-gray-400 leading-relaxed italic">
+1332:                  <div className="space-y-4">
+1333:                    <h3 className="text-sm font-bold text-gray-500 uppercase tracking-widest">{t.checkout.paymentTitle}</h3>
+1334:                    <div className="grid grid-cols-2 gap-4">
+1336:                        <button key={i} className="p-4 rounded-xl border border-white/10 bg-white/5 hover:border-snap-yellow transition-all flex items-center gap-3">
+1337:                          <div className="text-snap-yellow">{method.icon}</div>
+1338:                          <span className="text-xs font-bold">{method.name}</span>
+1347:                    className="w-full py-6 bg-snap-yellow text-black font-black rounded-2xl hover:scale-105 transition-all shadow-[0_10px_40px_rgba(255,252,0,0.3)] disabled:opacity-50 disabled:hover:scale-100 text-xl flex items-center justify-center gap-4"
+1351:                        <RefreshCcw className="w-6 h-6 animate-spin" />
+1356:                        <CreditCard className="w-6 h-6" />
+1367:          <section className="pt-40 pb-24 px-6">
+1368:            <div className="max-w-7xl mx-auto">
+1369:              <div className="text-center mb-20">
+1370:                <h1 className="text-5xl lg:text-7xl font-black mb-6 uppercase tracking-tighter">
+1373:                <p className="text-xl text-gray-400 font-medium">{t.blog.subtitle}</p>
+1374:                <div className="w-32 h-1.5 bg-snap-yellow mx-auto rounded-full mt-8"></div>
+1377:              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+1384:                    className="glass rounded-[2.5rem] overflow-hidden border border-white/5 hover:border-snap-yellow/30 transition-all group"
+1386:                    <div className="aspect-video overflow-hidden">
+1390:                        className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+1391:                        referrerPolicy="no-referrer"
+1394:                    <div className="p-8">
+1395:                      <div className="text-xs font-bold text-snap-yellow uppercase tracking-widest mb-4">{post.date}</div>
+1396:                      <h3 className="text-2xl font-black mb-4 leading-tight group-hover:text-snap-yellow transition-colors">{post.title}</h3>
+1397:                      <p className="text-gray-400 mb-8 leading-relaxed">{post.excerpt}</p>
+1400:                        className="text-sm font-black uppercase tracking-widest flex items-center gap-2 group/btn"
+1414:      <footer className="bg-matte-black pt-24 pb-12 border-t border-white/5">
+1415:        <div className="max-w-7xl mx-auto px-6">
+1416:          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-20">
+1418:            <div className="space-y-6">
+1419:              <div className="flex items-center gap-3">
+1420:                <Star className="w-8 h-8 text-snap-yellow fill-snap-yellow" />
+1421:                <span className="text-2xl font-black tracking-tighter text-white">SNAP BOOST</span>
+1423:              <p className="text-gray-400 leading-relaxed font-medium">
+1428:              <div className="flex gap-4">
+1429:                <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-snap-yellow hover:text-black transition-all">
+1430:                  <Facebook className="w-5 h-5" />
+1432:                <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-snap-yellow hover:text-black transition-all">
+1433:                  <Twitter className="w-5 h-5" />
+1435:                <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-snap-yellow hover:text-black transition-all">
+1436:                  <Instagram className="w-5 h-5" />
+1438:                <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-snap-yellow hover:text-black transition-all">
+1439:                  <Linkedin className="w-5 h-5" />
+1441:                <button onClick={() => openWhatsApp('Social Inquiry')} className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-snap-yellow hover:text-black transition-all">
+1442:                  <WhatsAppIcon className="w-5 h-5" />
+1449:              <h4 className="text-white font-black mb-8 uppercase tracking-widest text-sm">{lang === 'ar' ? 'روابط سريعة' : 'Quick Links'}</h4>
+1450:              <ul className="space-y-4 text-gray-400 font-bold">
+1451:                <li><a href="#services" className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'خدماتنا' : 'Our Services'}</a></li>
+1452:                <li><a href="#catalog" className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'كتالوج الحسابات' : 'Account Catalog'}</a></li>
+1453:                <li><a href="#how" className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'كيف نعمل' : 'How It Works'}</a></li>
+1454:                <li><a href="#blog" className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'المدونة' : 'Blog'}</a></li>
+1455:                <li><a href="#faq" className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'الأسئلة الشائعة' : 'FAQ'}</a></li>
+1456:                <li><button onClick={() => openWhatsApp('Contact')} className="hover:text-snap-yellow transition-colors">{lang === 'ar' ? 'اتصل بنا' : 'Contact Us'}</button></li>
+1462:              <h4 className="text-white font-black mb-8 uppercase tracking-widest text-sm">{lang === 'ar' ? 'خدماتنا' : 'Services'}</h4>
+1463:              <ul className="space-y-4 text-gray-400 font-bold">
+1473:              <h4 className="text-white font-black mb-8 uppercase tracking-widest text-sm">{lang === 'ar' ? 'تواصل معنا' : 'Contact'}</h4>
+1474:              <div className="space-y-6">
+1475:                <div className="flex items-center gap-4 text-gray-400">
+1476:                  <div className="w-10 h-10 rounded-xl bg-snap-yellow/10 flex items-center justify-center text-snap-yellow">
+1477:                    <WhatsAppIcon className="w-5 h-5" />
+1480:                    <div className="text-[10px] uppercase tracking-widest font-black text-gray-500">WhatsApp</div>
+1481:                    <div className="font-bold text-white">{WHATSAPP_NUMBER}</div>
+1484:                <div className="flex items-center gap-4 text-gray-400">
+1485:                  <div className="w-10 h-10 rounded-xl bg-snap-yellow/10 flex items-center justify-center text-snap-yellow">
+1486:                    <Globe className="w-5 h-5" />
+1489:                    <div className="text-[10px] uppercase tracking-widest font-black text-gray-500">Region</div>
+1490:                    <div className="font-bold text-white">GCC (KSA, UAE, Qatar)</div>
+1497:          <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-8">
+1498:            <div className="flex flex-wrap justify-center gap-4 items-center">
+1499:              <span className="text-gray-500 font-bold text-xs uppercase tracking-widest">{t.footer.serving}</span>
+1500:              <div className="flex gap-3 text-xl">
+1502:                  <span key={flag.name} title={flag.name} className="hover:scale-125 transition-transform cursor-default">
+1509:            <div className="text-gray-500 text-xs font-bold flex items-center gap-2">
+1511:              <div className="mt-2 text-[10px] opacity-50 flex items-center gap-2">
+1512:                <div className="w-4 h-4 bg-snap-yellow rounded-sm flex items-center justify-center">
+1513:                  <Star className="text-black w-2.5 h-2.5 fill-black" />
+1519:            <div className="flex gap-8 text-xs font-bold text-gray-500">
+1520:              <a href="#" className="hover:text-snap-yellow transition-colors">{t.footer.privacy}</a>
+1521:              <a href="#" className="hover:text-snap-yellow transition-colors">{t.footer.terms}</a>
+1534:        className="fixed bottom-24 right-8 z-50 w-16 h-16 bg-[#25D366] text-white rounded-full shadow-[0_0_20px_rgba(37,211,102,0.4)] flex items-center justify-center group"
+1536:        <WhatsAppIcon className="w-10 h-10" />
+1537:        <div className="absolute right-full mr-4 bg-white text-black px-4 py-2 rounded-xl text-sm font-bold whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none shadow-xl">
+1550:            className="fixed bottom-8 right-8 z-50 w-12 h-12 bg-snap-yellow text-black rounded-full shadow-2xl flex items-center justify-center hover:scale-110 transition-transform"
+1552:            <ChevronRight className="-rotate-90 w-6 h-6" />
